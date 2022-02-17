@@ -10,8 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@contentful/rich-text-from-markdown": "^15.11.2",
+    "@contentful/rich-text-plain-text-renderer": "^15.11.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.2",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
-    "mongoose": "^6.2.1"
+    "htmlparser": "^1.7.7",
+    "jsdom": "^19.0.0",
+    "jsrtf": "^0.0.3",
+    "markdown-splitter": "^1.0.5",
+    "mongoose": "^6.2.1",
+    "splittext": "^2.0.0"
   }
 }

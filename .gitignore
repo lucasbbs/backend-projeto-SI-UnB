@@ -3,5 +3,6 @@
 package-lock.json
 /build
 .vscode
+.git
 .eslintcache
 .env
